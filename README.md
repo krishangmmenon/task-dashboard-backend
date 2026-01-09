@@ -48,4 +48,4 @@ src/
 
 ## Related Repository
 
-Frontend: https://github.com/your-username/task-dashboard-frontend
+Frontend: https://github.com/krishangmmenon/task-dashboard-frontend
